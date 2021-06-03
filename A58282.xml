@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Rebellion in Coven [sic] Garden, or, The rumour of treachery intended against the city being the cause of the arising of the train-bands upon twelfth day at night : with a relation of the Kings love shewed both to the Parliament and city of London.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58282</idno><idno type="EEBO-CITATION">9601844</idno>
+  <idno type="VID">43769</idno>
+  <idno type="EEBO-PROQUEST">2248504356</idno>
+  
+            <idno type="STC">Wing R594</idno>
+            <idno type="STC">ESTC R26974</idno>
+            <idno type="OCLC">09601844</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58282)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Rebellion in Coven [sic] Garden, or, The rumour of treachery intended against the city being the cause of the arising of the train-bands upon twelfth day at night : with a relation of the Kings love shewed both to the Parliament and city of London.</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Bates,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43769:1"/>
+            <pb facs="tcp:43769:1"/>
+            <p>THE REBELLION IN <hi>COVEN GARDEN.</hi>
+            </p>
+            <p>OR, The Rumour of Treachery intended against the City-Being the cause of the Arising of the Train-Bands upon <hi>Twelfth day at night.</hi>
+            </p>
+            <p>With a Relation of the Kings love shewed both to the Parliament and City of <hi>London.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of two men dueling with swords</figDesc>
+            </figure>
+            <p>Printed for <hi>Thomas Bates,</hi> dwelling in Old Baily. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43769:2"/>
+            <pb n="1" facs="tcp:43769:2"/>
+            <head>THE REBELLION IN <hi>COVEN GARDEN.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Ise <hi>Philosophers</hi> considering of the nature of man, and namely, the far reach and infinite compasse of the works of the minde, they were forced to confesse that man was scarce able to know himself, from whence arose this saying, <hi>Maximum miraculum est homo, sed maximum miraculum est sapiens homo,</hi> Man in himself as he is man, is a great miracle, but a wise, understanding, religious man is a mi<g ref="char:EOLhyphen"/>racle of miracles. But whence is such a man to be found, the Poet will tell you.
+<q>
+                  <l>
+                     <hi>Haud sapiens è millibus unus.</hi>
+                  </l>
+                  <l>You shall scarce finde a wise man amongst a thousand.</l>
+               </q> And yet in these our times never too much to be lamented, he is accounted as the <hi>ipse</hi>
+               <pb n="2" facs="tcp:43769:3"/>onely wise man which will but affirm the words of his factious neighbour to be true, although they tend almost to the destructi<g ref="char:EOLhyphen"/>on of a Kingdome.</p>
+            <p>Tush, wisemen now are plenty, you shall finde them almost in every Tub, but such wisedome leads not to the <hi>summum bonum,</hi> true felicitie. Having now opened a gate not hindred by a percullis, give me licence without Musket shot to enter into the City.</p>
+            <p>Vpon Thursday being the sixth of <hi>Ian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ary,</hi> about the midst of the night, great cry was up and down the City, as if some for<g ref="char:EOLhyphen"/>raigne enemy had been coming presently to assault it; whereupon the Drums present<g ref="char:EOLhyphen"/>ly beat up, and Train-Bands commanded to arise to their Armes, who being not long before so much overcome by sleep, that they scarce knew the place where their legs were But at length hearing the thundring of Drums, they committed themselves to the protection of a brace of Bullets, and so out they came, commanding their wives to hang Lanterns out, that each man might know the way to his own house again.</p>
+            <p>In a short time they were all ready either
+<pb n="3" facs="tcp:43769:3"/>to defend or offend: the cause of which preparation was briefly thus.</p>
+            <p>In the <hi>Common Garden</hi> were divers Gen<g ref="char:EOLhyphen"/>tlemen merrily drinking healths, and had in company with them three Drummers, who did strike up every time a health was pledg<g ref="char:EOLhyphen"/>ed. These sparkish Gentlemen did drink so long healths, that at the length their brains began to be sick, and they (like some others) went about to do one another mischief they knew not wherefore, the wine did so much enflame their bloods, that their sole desires were to open one anothers veins: Where<g ref="char:EOLhyphen"/>upon they drew their swords, and pell mell at it they went. The clashing of whose Swords being heard into the street, speedy news was carried to the City, that the Re<g ref="char:EOLhyphen"/>bels of <hi>Coven Garden</hi> were coming to assault the City, which was the cause of their spee<g ref="char:EOLhyphen"/>die arising: the Percullis of each Gate being let down, onely to rescue of a few drun<g ref="char:EOLhyphen"/>ken men swaggering amongst themselves, who were supposed to go into Rebellion.</p>
+            <p>Whereby we may gather, that the wifest men may sometimes be deceived: the Train Bands waited untill morning, without any
+<pb n="4" facs="tcp:43769:4"/>opposition. Also there were certain horses which were prepared for <hi>Ireland,</hi> but the City was fearfull lest they should have been that night emploied against them, but there was no such matter, nor by the assistance of God never shall be, he being feared, and the King obeyed. The King obeyed, I say, who hath been so just and gracious a Soveraigne towards his Subjects: Wherefore I pray that as the King hath dealt royally by his Sub<g ref="char:EOLhyphen"/>jects, that his Subiects deal not disloyally with him, denying him that when <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e de<g ref="char:EOLhyphen"/>sires, whereas if he please he may command.
+<q>Regum est, Parcere subjectis, &amp; debellare superbos.</q> As it is the part of a King to shew clemen<g ref="char:EOLhyphen"/>cie to his loyall Subiects, so is it likewise to curbe the insolencie of the insulting foes.</p>
+            <p>Were eloquent <hi>Cicero</hi> now living, he might have as iust cause as he had before, to cry out,
+<q>O Tempora O mores.</q>
+            </p>
+            <p>Let but <hi>England</hi> consider aright, and it must confesse, that never Kingdome was blest with a more peaceable King: and
+<pb n="5" facs="tcp:43769:4"/>again I really beleeve that never more per<g ref="char:EOLhyphen"/>plexed in governing a Kingdome then he hath been.</p>
+            <p>What King could have given more pri<g ref="char:EOLhyphen"/>viledge to a <hi>Parliament</hi> than He? and what Kings patience was ever more abused then his? O terrifie not the Princely Lyon too much, for then will his wrath be hard to be appeased: Remember the word of the Psal<g ref="char:EOLhyphen"/>mist, <hi>Touch not my Anointed,</hi> that is to do him no either by word or deed, and then the se<g ref="char:EOLhyphen"/>quel is, <hi>nor do my Prophets any harm.</hi> Mark that you that are given to cavill at the Cler<g ref="char:EOLhyphen"/>gie, and delight in nothing more but to rob <hi>Levi</hi> of his.</p>
+            <p>All you which are of the house of the Lord pray for King CHARLES, stand up in his cause, but let them be cloathed with shame and confusion which are against him. This is the prayer of him which is neither Papist, nor Separatist, but feares God being a Protestant, and vows to obey King CHARLES as a Subiect.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
